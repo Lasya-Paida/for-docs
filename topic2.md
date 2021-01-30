@@ -7,4 +7,3 @@ data | head | names | roll numbers
 
 
 
-![images](https://github.com/Lasya-Paida/for-docs/blob/master/mona-heart-featured.png)
